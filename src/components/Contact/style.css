@@ -1,0 +1,22 @@
+.contact-container {
+    text-align: center;
+    padding: 20px;
+  }
+  
+  .contact-header {
+    margin-bottom: 10px;
+  }
+  
+  .contact-info {
+    font-size: 18px;
+    margin-bottom: 5px;
+  }
+  
+  .contact-link {
+    text-decoration: none;
+    color: #337ab7;
+  }
+  
+  .contact-link:hover {
+    color: #23527c;
+  }
